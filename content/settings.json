@@ -1,23 +1,26 @@
 {
-  "store_id": 51287,
-  "name": "casamento-i-l",
   "domain": "casamento-i-l.netlify.app",
-  "short_name": "casamento-i-l",
-  "description": "casamento-i-l",
-  "repository": "ecomplus-stores/casamento-i-l",
-  "primary_color": "#313131",
-  "secondary_color": "#e36159",
-  "bg_color": "#fff",
+  "currency_symbol": "R$",
+  "primary_color": "#000000",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#fff",
+  "repository": "ecomplus-stores/casamento-i-l",
+  "logo": "/img/uploads/screen-shot-2022-06-25-at-17.18.45.png",
+  "name": "casamento-i-l",
+  "short_name": "casamento-i-l",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/favicon.png",
+  "icons_font": "_",
+  "country_code": "BR",
+  "secondary_color": "#ffffff",
+  "icon": "/img/icon.png",
+  "store_id": 51287,
+  "description": "casamento-i-l",
+  "large_icon": "/img/large-icon.png"
 }

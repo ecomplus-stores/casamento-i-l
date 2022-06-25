@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/casamento-i-l",
   "logo": "/img/uploads/screen-shot-2022-06-25-at-17.18.45.png",
   "name": "Casamento Laura e Igor",
-  "short_name": "casamento-i-l",
+  "short_name": "Laura e Igor",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#ffffff",
   "icon": "/img/uploads/fc69d05802bf07afe80135fe35f0f5b2.jpg",
   "store_id": 51287,
-  "description": "casamento-i-l",
+  "description": "casamentoli",
   "large_icon": "/img/large-icon.png"
 }

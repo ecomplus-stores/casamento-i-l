@@ -1,5 +1,18 @@
 {
   "meta_title": "",
   "meta_description": "",
-  "sections": []
+  "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-06-25T20:01:56.409Z",
+          "end": "2022-06-25T20:01:56.425Z",
+          "img": "/img/uploads/0f9b1359-3953-4be5-afa4-c386e2f9f45c.jpg"
+        }
+      ]
+    }
+  ]
 }

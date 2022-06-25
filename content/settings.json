@@ -1,9 +1,10 @@
 {
   "store_id": 51287,
   "name": "casamento-i-l",
-  "domain": "casamento-igor-e-laura.netlify.app",
+  "domain": "casamento-i-l.netlify.app",
   "short_name": "casamento-i-l",
   "description": "casamento-i-l",
+  "repository": "ecomplus-stores/casamento-i-l",
   "primary_color": "#313131",
   "secondary_color": "#e36159",
   "bg_color": "#fff",

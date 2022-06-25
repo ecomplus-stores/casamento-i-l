@@ -1,26 +1,22 @@
 {
-  "domain": "ecomplus-storefront.netlify.app",
-  "currency_symbol": "R$",
-  "primary_color": "",
+  "store_id": 1032,
+  "name": "casamento-i-l",
+  "domain": "casamento-igor-e-laura.netlify.app",
+  "short_name": "casamento-i-l",
+  "description": "casamento-i-l",
+  "primary_color": "#313131",
+  "secondary_color": "#e36159",
+  "bg_color": "#fff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "_"
   },
-  "icons_font": "_",
-  "font_family": "_",
-  "bg_color": "#ffffff",
-  "repository": "",
   "logo": "/img/uploads/logo.png",
-  "name": "My Shop",
-  "short_name": "My Shop",
+  "mini_logo": "",
+  "icon": "/img/icon.png",
+  "large_icon": "/img/large-icon.png",
+  "favicon": "/img/uploads/favicon.png",
   "lang": "pt_br",
   "currency": "BRL",
-  "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
-  "country_code": "BR",
-  "secondary_color": "",
-  "icon": "/img/icon.png",
-  "store_id": 1052,
-  "description": "My PWA Shop",
-  "large_icon": "/img/large-icon.png"
+  "currency_symbol": "R$",
+  "country_code": "BR"
 }

@@ -47,12 +47,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/os-noivos-noivo.jpg",
-          "alt": "Igor"
-        },
-        {
           "img": "/img/uploads/os-noivos-noiva.jpg",
           "alt": "Laura"
+        },
+        {
+          "img": "/img/uploads/os-noivos-noivo.jpg",
+          "alt": "Igor"
         }
       ]
     },

@@ -1,7 +1,10 @@
 // Add your custom CSS here.
 @media(min-width: 767px) {
-.banner picture img {
+.banners-grid .banner picture img {
     height: 380px;
     width: auto;
 }
+}
+.page--home {
+text-align:center
 }

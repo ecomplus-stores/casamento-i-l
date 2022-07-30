@@ -120,12 +120,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/IMG_1935.jpg",
-          "alt": "granola200"
+          "img": "/img/uploads/img_1923.jpg"
         },
         {
-          "img": "/img/uploads/IMG_1930.jpg",
-          "alt": "granola200"
+          "img": "/img/uploads/img_1924.jpg"
         }
       ]
     },
@@ -133,10 +131,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/img_1923.jpg"
+          "img": "/img/uploads/IMG_1934.jpg"
         },
         {
-          "img": "/img/uploads/img_1924.jpg"
+          "img": "/img/uploads/IMG_1933.jpg"
         }
       ]
     },
@@ -150,6 +148,30 @@
         {
           "img": "/img/uploads/IMG_1936.jpg",
           "alt": "granola200"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/IMG_1935.jpg",
+          "alt": "granola200"
+        },
+        {
+          "img": "/img/uploads/IMG_1930.jpg",
+          "alt": "granola200"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/img_6111.jpg"
+        },
+        {
+          "img": "/img/uploads/img_6112.jpg"
         }
       ]
     },

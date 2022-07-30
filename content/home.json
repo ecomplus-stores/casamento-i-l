@@ -133,7 +133,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/8b269697-dfde-49ef-aaad-db1b46c23c3e-2.jpg"
+          "img": "/img/uploads/img_1923.jpg"
+        },
+        {
+          "img": "/img/uploads/img_1924.jpg"
         }
       ]
     },

@@ -47,18 +47,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/os-noivos-noiva.jpg",
-          "alt": "Laura"
-        },
-        {
-          "img": "/img/uploads/os-noivos-noivo.jpg",
+          "img": "/img/uploads/d164aadd-82a7-4a7c-a779-2b85e7282769.jpg",
           "alt": "Igor"
         }
       ]
     },
     {
       "type": "custom-content",
-      "markdown": "Histórias de amor existem, e, às vezes, nem nós mesmos acreditamos todo o tempo que já estamos juntos. Porém, o brilho intenso e apaixonado dos nossos olhares nos fazem lembrar o porquê de chegarmos até aqui sem sentir tanto o tempo passar....Vamos nos casar! Estamos preparando tudo com muito carinho para curtirmos cada momento com nossos amigos e familiares queridos!"
+      "markdown": "De um casal embriagado a um casal apaixonado. É imensa a felicidade de ter encontrado um ao outro, um amor tenro e leve que torna cada momento único. Obrigado por fazerem parte de nossas vidas e por celebrarem conosco a nossa união."
     },
     {
       "type": "custom-content",

@@ -8,9 +8,11 @@
 .page--home {
 text-align:center
 }
-@media(max-width: 767px) {
-
-}
+/* @media(max-width: 767px) {
+    #padr .banners-grid .row .col-12 {
+        max-width: 50%;
+    }
+} */
 .menu__item:hover {
     background: #03bb85;
     text-decoration: none;

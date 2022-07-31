@@ -8,3 +8,23 @@
 .page--home {
 text-align:center
 }
+@media(max-width: 767px) {
+
+}
+.menu__item:hover {
+    background: #03bb85;
+    text-decoration: none;
+}
+.custom-content h2::after {
+    background: url(/img/uploads/infinity.png) no-repeat left top;
+    content: '';
+    display: block;
+    height: 15px;
+    margin: 10px auto 0;
+    width: 30px;
+  }
+
+#o-local + .custom-html .container {
+    display: flex;
+    justify-content: center;
+}

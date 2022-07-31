@@ -46,7 +46,7 @@
       ]
     },
     {
-      "type": "custom-content",
+      "type": "o-pedido",
       "markdown": "## O Pedido"
     },
     {
@@ -54,7 +54,7 @@
       "html": "<div class=\"embed-responsive embed-responsive-16by9\"> <iframe class=\"embed-responsive-item\" src=\"https://youtube.com/embed/Oo5g5nDnETg\"></iframe> </div"
     },
     {
-      "type": "custom-content",
+      "type": "os-noivos",
       "markdown": "## Os Noivos"
     },
     {
@@ -71,7 +71,7 @@
       "markdown": "De um casal embriagado a um casal apaixonado. É imensa a felicidade de ter encontrado um ao outro, um amor tenro e leve que torna cada momento único. Obrigado por fazerem parte de nossas vidas e por celebrarem conosco a nossa união."
     },
     {
-      "type": "custom-content",
+      "type": "os-padrinhos",
       "markdown": "## Padrinhos"
     },
     {
@@ -211,8 +211,12 @@
       ]
     },
     {
+      "type": "o-local",
+      "markdown": "## Local do Casamento"
+    },
+    {
       "type": "custom-html",
-      "html": "\n<div class=\"mapouter\"><center>Local do Casamento</center><div class=\"gmap_canvas\"><iframe width=\"600\" height=\"500\" id=\"gmap_canvas\" src=\"https://maps.google.com/maps?q=Rua%20Dimas%20Bergo%20Xisto,%20396%20-%20S%C3%A3o%20Pedro%20%20Juiz%20de%20Fora%20/%20MG%20CEP%2036.037-510&t=&z=17&ie=UTF8&iwloc=&output=embed\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\"></iframe><a href=\"https://putlocker-is.org\"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href=\"https://www.embedgooglemap.net\">add a google map to website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>"
+      "html": "\n<div id=\"local\" class=\"mapouter\"><div class=\"gmap_canvas\"><iframe width=\"600\" height=\"500\" id=\"gmap_canvas\" src=\"https://maps.google.com/maps?q=Rua%20Dimas%20Bergo%20Xisto,%20396%20-%20S%C3%A3o%20Pedro%20%20Juiz%20de%20Fora%20/%20MG%20CEP%2036.037-510&t=&z=17&ie=UTF8&iwloc=&output=embed\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\"></iframe><a href=\"https://putlocker-is.org\"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href=\"https://www.embedgooglemap.net\">add a google map to website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>"
     }
   ]
 }

@@ -1,4 +1,10 @@
 {
   "title": "Dicas do Casal",
-  "body": "Aqui disponibilizamos nossas indicações de estadias, restaurantes e mais."
+  "body": "Aqui disponibilizamos nossas indicações de estadias, restaurantes e mais.",
+  "sections": [
+    {
+      "type": "custom-content",
+      "markdown": "**Estadias**"
+    }
+  ]
 }

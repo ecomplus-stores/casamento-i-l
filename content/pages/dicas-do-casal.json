@@ -3,6 +3,14 @@
   "body": "Aqui disponibilizamos nossas indicações de estadias, restaurantes e mais.",
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
       "type": "custom-content",
       "markdown": "# **Estadias**\n\n\n\n1. Ibis <https://all.accor.com/hotel/8913/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps>\n2. Hotel Constantino \n3. Trade Hotel JF (o mais próximo do evento)\n4. Ritz Plaza Hotel\n5. Cesar Inn Juiz de Fora Hotel"
     }

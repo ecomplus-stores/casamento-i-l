@@ -3,7 +3,8 @@
   "body": "Aqui disponibilizamos nossas indicações de estadias, restaurantes e mais.",
   "sections": [
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Dicas do Casal"
     },
     {
       "type": "breadcrumbs",

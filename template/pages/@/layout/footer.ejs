@@ -8,6 +8,7 @@ const themeCustom = _.settings.theme.custom || ''
 <footer class="footer py-3 py-lg-4 py-xl-5">
   <div class="container">
     <div class="row">
+      <!--
       <div class="col-12 col-lg-auto order-<%= themeCustom === 'ecom-beauty' ? '' : 'lg-'%>last pl-xl-4">
         <div class="footer__contacts">
           <% if (footer.contacts.title) { %>
@@ -155,8 +156,9 @@ const themeCustom = _.settings.theme.custom || ''
           </div>
         </div>
       <% } %>
+      -->
 
-      <div class="col-12 col-xl order-<%= themeCustom === 'ecom-beauty' ? '' : 'lg-'%>first">
+      <div class="col-12" id="footer-casamento">
         <h2 class="footer__title footer__store">
           <%= footer.description.title || _.settings.name %>
         </h2>

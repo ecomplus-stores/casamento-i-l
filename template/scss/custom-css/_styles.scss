@@ -30,6 +30,24 @@ text-align:center
     display: flex;
     justify-content: center;
 }
-.checkout__col .payment__method.list-group-item .payment__text {
+.checkout__col .payment__method.list-group-item .payment__text, .footer__title.footer__store + p, #product .shipping-calculator, .shipping-calculator.cart__shipping, .address-form__name {
 display: none
+}
+
+#footer-casamento {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.checkout__step:nth-child(2) {
+    font-size: 0px;
+  }
+.checkout__step:nth-child(2):after {
+    content: "Endereço de Cobrança";
+    font-size: 13px !important;
+    padding-left: 5px
+}
+.checkout__step:nth-child(2):before, .checkout__step:nth-child(2) small {
+    font-size: 13px !important;
 }

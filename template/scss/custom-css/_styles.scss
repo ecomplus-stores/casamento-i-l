@@ -52,3 +52,20 @@ display: none
 .checkout__step:nth-child(2):before, .checkout__step:nth-child(2) small {
     font-size: 13px !important;
 }
+@media(max-width: 767px) {
+    .header__buttons .languages {
+        display: none;
+    }
+}
+@media(min-width: 767px) {
+    .header__buttons {
+        display: flex;
+        align-items: center;
+        .languages a {
+            padding-right: 15px;
+            padding-left: 15px;
+
+        }
+    }
+
+}

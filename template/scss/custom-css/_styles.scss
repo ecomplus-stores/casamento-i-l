@@ -69,3 +69,8 @@ display: none
     }
 
 }
+.order-info__redirect p::after {
+    content: ': CLIQUE NO BOTÃO ABAIXO PARA FINALIZAR O PAGAMENTO VIA CARTÃO DE CRÉDITO';
+    font-weight: 'bold';
+    color: red;
+}

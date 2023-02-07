@@ -80,6 +80,7 @@ const logo = _.settings.logo
       <%- await include('@/layout/inc/ecom-credits') %>
     </div>
   </footer>
+  <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=BRL" data-sdk-integration-source="button-factory"></script>
   <script src="https://www.mercadopago.com/v2/security.js" view="checkout"></script>
   <%- await include('@/json', { _ }) %>
   <%- await include('@/scripts') %>

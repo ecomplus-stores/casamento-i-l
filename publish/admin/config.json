@@ -1,0 +1,101 @@
+{
+  "backend": {
+    "name": "git-gateway",
+    "branch": "master",
+    "identity_url": "https://gotrue.ecomplus.biz/51287/.netlify/identity",
+    "gateway_url": "https://gitgateway.ecomplus.biz/51287/.netlify/git"
+  },
+  "collections": [
+    {},
+    {},
+    {
+      "name": "pages",
+      "files": [
+        {
+          "name": "home",
+          "label": "Página inicial",
+          "file": "content/home.json",
+          "fields": [
+            {
+              "label": "Meta title",
+              "name": "meta_title",
+              "widget": "string",
+              "hint": "Título exibido na aba do navegador e nos resultados de motores de busca, relevante para SEO",
+              "required": false
+            },
+            {
+              "label": "Meta description",
+              "name": "meta_description",
+              "widget": "string",
+              "hint": "Descrição exibida nos resultados de motores de busca, relevante para SEO",
+              "required": false
+            },
+            {
+              "label": "Seções",
+              "name": "sections",
+              "widget": "list",
+              "types": [
+                {
+                  "label": "Conteúdo customizado do Pedido",
+                  "name": "o-pedido",
+                  "widget": "object",
+                  "icon": "https://api.iconify.design/bi:file-richtext.svg",
+                  "fields": [
+                    {
+                      "label": "Conteúdo markdown customizado",
+                      "name": "markdown",
+                      "widget": "markdown",
+                      "hint": "Markdown parseado para HTML"
+                    }
+                  ]
+                },
+                {
+                  "label": "Conteúdo customizado do Local",
+                  "name": "o-local",
+                  "widget": "object",
+                  "icon": "https://api.iconify.design/bi:file-richtext.svg",
+                  "fields": [
+                    {
+                      "label": "Conteúdo markdown customizado",
+                      "name": "markdown",
+                      "widget": "markdown",
+                      "hint": "Markdown parseado para HTML"
+                    }
+                  ]
+                },
+                {
+                  "label": "Conteúdo customizado dos noivos",
+                  "name": "os-noivos",
+                  "widget": "object",
+                  "icon": "https://api.iconify.design/bi:file-richtext.svg",
+                  "fields": [
+                    {
+                      "label": "Conteúdo markdown customizado",
+                      "name": "markdown",
+                      "widget": "markdown",
+                      "hint": "Markdown parseado para HTML"
+                    }
+                  ]
+                },
+                {
+                  "label": "Conteúdo customizado dos padrinhos",
+                  "name": "os-padrinhos",
+                  "widget": "object",
+                  "icon": "https://api.iconify.design/bi:file-richtext.svg",
+                  "fields": [
+                    {
+                      "label": "Conteúdo markdown customizado",
+                      "name": "markdown",
+                      "widget": "markdown",
+                      "hint": "Markdown parseado para HTML"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

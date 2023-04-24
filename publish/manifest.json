@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a0ba80003b3cf0f275a47885c5bf31c0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0240fb21e4a86ec97b70a10a0be82bb6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b8e6d76ae646e91bb6fe199de4e730a0.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.0eafda314e2fb595d3dd1a6224b373eb.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.35fe0b849ee9dad6a2c0d906d2ba3348.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Casamento Laura e Igor",
+  "short_name": "Laura e Igor",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "casamentoli",
+  "background_color": "#fff",
+  "theme_color": "#000000"
+}
